@@ -3338,14 +3338,14 @@
     "translate": [92.25672383937811, 21.944190125242905]
   },
   "objects": {
-    "mizoram_district": {
+    "districts": {
       "type": "GeometryCollection",
       "geometries": [
         {
           "arcs": [[0, 1, 2, 3, 4, 5, 6]],
           "type": "Polygon",
           "properties": {
-            "district": "Aizawal",
+            "district": "Aizawl",
             "dt_code": "261",
             "st_nm": "Mizoram",
             "st_code": "15",
